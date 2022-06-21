@@ -1,5 +1,27 @@
 .mlab.com password
 WFClient Password extension:ica
+APP_SECRET
+consumerkey
+password
+JIRA_Password
+jdbc
+authorization bearer
+auth_key
+consumer_secret
+authorization
+SECURITY-SIGNATURE
+X-API
+X-Paypal
+secret_key
+JWK/JWT
+SSO_LOGIN
+defaultEndpointsProtocol
+access_key
+accountKey
+AWS_Secret
+aws_secret_access_key
+rexis
+api_key
 access_key
 access_token
 admin_pass
